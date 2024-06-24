@@ -63,5 +63,7 @@ public class Practica01 {
             }
         }
         
+        input.close();;
+
     }
 }

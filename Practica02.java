@@ -1,6 +1,3 @@
-
-package com.mycompany.practica02;
-
 import java.util.Scanner;
 
 public class Practica02 {
@@ -34,7 +31,8 @@ public class Practica02 {
                 System.out.println("Porfavor ponga uno de los valores que se le mostro, Gracias");
             }
         }
-         
+        
+        input.close();
         
     }
 }
